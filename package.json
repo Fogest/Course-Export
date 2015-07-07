@@ -1,0 +1,34 @@
+{
+  "name": "CourseExport",
+  "version": "0.1.0",
+  "description": "Course Schedule Export tool for University of Guelph",
+  "main": "main.js",
+  "dependencies": {
+    "casperjs": "^1.1.0-beta3",
+    "fs": "0.0.2",
+    "https": "^1.0.0",
+    "phantom": "^0.7.2",
+    "pm2": "^0.14.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Fogest/Course-Export.git"
+  },
+  "keywords": [
+    "university",
+    "of",
+    "guelph",
+    "course",
+    "export"
+  ],
+  "author": "Justin Visser",
+  "license": "GNU",
+  "bugs": {
+    "url": "https://github.com/Fogest/Course-Export/issues"
+  },
+  "homepage": "https://github.com/Fogest/Course-Export"
+}
